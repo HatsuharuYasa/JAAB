@@ -1,0 +1,13 @@
+cmake==3.26.4 #Through conda
+pybind11==2.13.6 #Through conda
+
+CUDA==11.7.1 #Through conda
+Cudnn==8.1 #Through conda
+Numpy==1.26.4 #Through pip
+
+Pytorch==2.0.0 with Cuda 11.7 compatibility #Through conda
+Torchvision==0.15.0 #Through conda
+
+OpenCv==Any version #Through pip
+
+Compile Detectron2 using the requirements above from source
