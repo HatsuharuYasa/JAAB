@@ -3,6 +3,7 @@
 *.jpg
 
 *.pb
+*:Zone.Identifier
 
 TestDetectron/output
 TestDetectron/test
