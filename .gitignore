@@ -1,6 +1,7 @@
 *.avi
 *.mp4
 *.jpg
+*.png
 
 *.pb
 *:Zone.Identifier
