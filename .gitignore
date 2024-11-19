@@ -2,6 +2,7 @@
 *.mp4
 *.jpg
 *.png
+*.PNG
 
 *.pb
 *:Zone.Identifier
