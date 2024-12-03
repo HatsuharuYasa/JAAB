@@ -3,6 +3,8 @@
 *.jpg
 *.png
 *.PNG
+*.pt
+*.pth
 
 *.pb
 *:Zone.Identifier
