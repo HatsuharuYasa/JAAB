@@ -2,9 +2,9 @@ import os
 
 import cv2
 
-
-input_dir = './tmp/masks'
-output_dir = './tmp/labels'
+current_workspace = "utility/segm_mod"
+input_dir = os.path.join(current_workspace, "masks")
+output_dir = os.path.join(current_workspace, "labels")
 
 for j in os.listdir(input_dir):
     image_path = os.path.join(input_dir, j)

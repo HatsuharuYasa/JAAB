@@ -5,6 +5,7 @@
 *.PNG
 *.pt
 *.pth
+*.txt
 
 *.pb
 *:Zone.Identifier
@@ -13,3 +14,8 @@ TestDetectron/output
 TestDetectron/test
 TestDetectron/train
 TestDetectron/valid
+
+TestSeg_1/runs
+TestSeg_1/dataset_1
+TestSeg_1/image_input
+TestSeg_1/video_input

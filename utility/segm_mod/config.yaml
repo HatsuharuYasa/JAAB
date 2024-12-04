@@ -1,6 +1,0 @@
-path: D:\SegMod\data
-train: images/train 
-val: images/val  
-
-nc: 1
-names: ['Fighter']
