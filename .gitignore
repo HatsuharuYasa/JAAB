@@ -3,7 +3,7 @@
 *.jpg
 *.png
 *.PNG
-*.pt
+
 *.pth
 *.txt
 
@@ -18,5 +18,7 @@ TestDetectron/valid
 TestSeg_1/runs
 TestSeg_1/dataset_1
 TestSeg_1/dataset_2
+TestSeg_1/dataset_3
 TestSeg_1/image_input
 TestSeg_1/video_input
+TestSeg_1/video_output

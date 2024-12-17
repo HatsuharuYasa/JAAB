@@ -4,7 +4,7 @@ import shutil
 current_workspace = "utility/data_filter"
 input_folder = os.path.join(current_workspace, "input_data")
 output_folder = os.path.join(current_workspace, "output_data")
-text_file_path = os.path.join(current_workspace, "file_list.txt")
+text_file_path = os.path.join(current_workspace, "filelist.txt")
 file_list = []
 
 with open(text_file_path, "r", encoding="utf-16") as file:

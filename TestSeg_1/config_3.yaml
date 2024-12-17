@@ -1,0 +1,6 @@
+path: /home/hatsu/coding/CapProj/TestSeg_1/dataset_3
+train: /home/hatsu/coding/CapProj/TestSeg_1/dataset_3/images/train
+val: /home/hatsu/coding/CapProj/TestSeg_1/dataset_3/images/val
+
+nc: 1
+names: ['Fighter']
