@@ -1,0 +1,6 @@
+path: /home/hatsu/coding/CapProj/HitDetection/dataset_1
+train: /home/hatsu/coding/CapProj/HitDetection/dataset_1/images/train
+val: /home/hatsu/coding/CapProj/HitDetection/dataset_1/images/val
+
+nc: 2
+names: ['Hit', 'Near miss']
