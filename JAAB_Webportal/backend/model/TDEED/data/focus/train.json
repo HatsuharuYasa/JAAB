@@ -1,0 +1,5183 @@
+[
+  {
+    "events": [
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 29,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vhxocs000k356uat8611ou",
+        "frame": 33,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 39,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vhxocs000k356uat8611ou",
+        "frame": 44,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 75,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 5,
+    "num_frames": 98,
+    "video": "Ben Whittaker v Ezra Arenyeka_1512_1609"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 51,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vhxbmm000c356ua6y4dj19",
+        "frame": 54,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vhxbmm000c356ua6y4dj19",
+        "frame": 125,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vhxbmm000c356ua6y4dj19",
+        "frame": 162,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 4,
+    "num_frames": 171,
+    "video": "Ben Whittaker v Ezra Arenyeka_1719_1889"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 19,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 27,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 37,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 3,
+    "num_frames": 61,
+    "video": "Ben Whittaker v Ezra Arenyeka_2187_2247"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 100,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi16fj001f356u9pfz34df",
+        "frame": 105,
+        "label": "block"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 136,
+        "label": "block"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 146,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 154,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 5,
+    "num_frames": 160,
+    "video": "Caroline Dubois v Maira Moneo_589_748"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 43,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 44,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 51,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zvtf001i356ut3nuivxr",
+        "frame": 62,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 67,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 68,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 6,
+    "num_frames": 74,
+    "video": "Jessica McCaskill v Lauren Price_1159_1232"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 26,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9uzox330005356u7bdfqvxq",
+        "frame": 49,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 2,
+    "num_frames": 50,
+    "video": "Ben Whittaker vs Vladimir Belujsky_0_49"
+  },
+  {
+    "events": [
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 33,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vtpz000p3j6t5eymhrpv",
+        "frame": 38,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 46,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 134,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 136,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 5,
+    "num_frames": 165,
+    "video": "Savannah Marshall vs Franchon Crews-Dezurn_1189_1353"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi1uzq001x356uohz90ipg",
+        "frame": 30,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi1srl001t356uba6ixn1r",
+        "frame": 38,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi1nvv001p356u4uwdiyqb",
+        "frame": 42,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 3,
+    "num_frames": 67,
+    "video": "Chris Billam-Smith v Richard Riakporhe 2_1501_1567"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9s8nakx000f356uq3sksuot",
+        "frame": 0,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9s8ottm000p356ug46otk2j",
+        "frame": 32,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 2,
+    "num_frames": 64,
+    "video": "Zak Chilli Callum Simpson_64_127"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 6,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 13,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zvtf001i356ut3nuivxr",
+        "frame": 18,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 26,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 31,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 32,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 78,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 7,
+    "num_frames": 83,
+    "video": "Jessica McCaskill v Lauren Price_1233_1315"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9uzox330005356u7bdfqvxq",
+        "frame": 4,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 1,
+    "num_frames": 42,
+    "video": "Ben Whittaker vs Vladimir Belujsky_286_327"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 18,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5z4np000x356uus4y0vzl",
+        "frame": 24,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 71,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5yuys000t356uz2eaqkzy",
+        "frame": 79,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5z7q80011356u06p5q42k",
+        "frame": 80,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5z4np000x356uus4y0vzl",
+        "frame": 87,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 128,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5z7q80011356u06p5q42k",
+        "frame": 136,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5z4np000x356uus4y0vzl",
+        "frame": 145,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5z7q80011356u06p5q42k",
+        "frame": 158,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5yuys000t356uz2eaqkzy",
+        "frame": 171,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 11,
+    "num_frames": 205,
+    "video": "Fabio Wardley v Frazer Clarke_1415_1619"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi0m7a000x356uume1q1sb",
+        "frame": 55,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 1,
+    "num_frames": 108,
+    "video": "Ben Whittaker v Leon Willings_1467_1574"
+  },
+  {
+    "events": [
+      {
+        "comment": "cma22vnjv000h3j6txvwc0uug",
+        "frame": 10,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 21,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 32,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 37,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vtpz000p3j6t5eymhrpv",
+        "frame": 47,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 66,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 142,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 7,
+    "num_frames": 160,
+    "video": "Savannah Marshall vs Franchon Crews-Dezurn_1354_1513"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v64v8w001t356u2f1rovut",
+        "frame": 21,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v64v8w001t356u2f1rovut",
+        "frame": 93,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v64o9w001p356u2opwv7fs",
+        "frame": 99,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 3,
+    "num_frames": 111,
+    "video": "Liam Smith vs Chris Eubank Jr 2_711_821"
+  },
+  {
+    "events": [
+      {
+        "comment": "cma22vtpz000p3j6t5eymhrpv",
+        "frame": 13,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vnjv000h3j6txvwc0uug",
+        "frame": 23,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 36,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 3,
+    "num_frames": 39,
+    "video": "Savannah Marshall vs Franchon Crews-Dezurn_1514_1552"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 64,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 76,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 85,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 3,
+    "num_frames": 98,
+    "video": "Jessica McCaskill v Lauren Price_774_871"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vhve0x0006356uu1yjlvtd",
+        "frame": 64,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vhxbmm000c356ua6y4dj19",
+        "frame": 77,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 114,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 3,
+    "num_frames": 136,
+    "video": "Ben Whittaker v Ezra Arenyeka_1313_1448"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9s8n3ku000b356u3h024ael",
+        "frame": 14,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 15,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 2,
+    "num_frames": 42,
+    "video": "Zak Chilli Callum Simpson_982_1023"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 46,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 54,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 2,
+    "num_frames": 82,
+    "video": "Zak Chilli Callum Simpson_739_820"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 85,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vhxocs000k356uat8611ou",
+        "frame": 89,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vhxbmm000c356ua6y4dj19",
+        "frame": 95,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 105,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vhxocs000k356uat8611ou",
+        "frame": 115,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 129,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vhve0x0006356uu1yjlvtd",
+        "frame": 151,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vhxocs000k356uat8611ou",
+        "frame": 159,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 8,
+    "num_frames": 174,
+    "video": "Ben Whittaker v Ezra Arenyeka_1139_1312"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 25,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9siy7650006356u25spo8hp",
+        "frame": 30,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 2,
+    "num_frames": 40,
+    "video": "Ben Whittaker vs Vladimir Belujsky_1251_1290"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 18,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 30,
+        "label": "block"
+      },
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 40,
+        "label": "block"
+      },
+      {
+        "comment": "cm9s8n3ku000b356u3h024ael",
+        "frame": 47,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 51,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 5,
+    "num_frames": 56,
+    "video": "Zak Chilli Callum Simpson_1123_1178"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5zvtf001i356ut3nuivxr",
+        "frame": 1,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 4,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 29,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 43,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 61,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 5,
+    "num_frames": 89,
+    "video": "Jessica McCaskill v Lauren Price_277_365"
+  },
+  {
+    "events": [
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 7,
+        "label": "block"
+      },
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 35,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 41,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 3,
+    "num_frames": 87,
+    "video": "Savannah Marshall vs Franchon Crews-Dezurn_454_540"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 5,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 12,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 19,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 27,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 4,
+    "num_frames": 29,
+    "video": "Ben Whittaker v Ezra Arenyeka_270_298"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5yuys000t356uz2eaqkzy",
+        "frame": 8,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5z4np000x356uus4y0vzl",
+        "frame": 102,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 112,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 3,
+    "num_frames": 113,
+    "video": "Fabio Wardley v Frazer Clarke_762_874"
+  },
+  {
+    "events": [
+      {
+        "comment": "cma22vnjv000h3j6txvwc0uug",
+        "frame": 5,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 37,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 37,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 3,
+    "num_frames": 48,
+    "video": "Savannah Marshall vs Franchon Crews-Dezurn_633_680"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5zvtf001i356ut3nuivxr",
+        "frame": 11,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 14,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 17,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 24,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 33,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 36,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zvtf001i356ut3nuivxr",
+        "frame": 42,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 48,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 8,
+    "num_frames": 52,
+    "video": "Jessica McCaskill v Lauren Price_1343_1394"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 12,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vhxocs000k356uat8611ou",
+        "frame": 18,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 29,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 3,
+    "num_frames": 32,
+    "video": "Ben Whittaker v Ezra Arenyeka_1449_1480"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi1uzq001x356uohz90ipg",
+        "frame": 7,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi1srl001t356uba6ixn1r",
+        "frame": 8,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi1srl001t356uba6ixn1r",
+        "frame": 80,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi1srl001t356uba6ixn1r",
+        "frame": 93,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 4,
+    "num_frames": 114,
+    "video": "Chris Billam-Smith v Richard Riakporhe 2_1270_1383"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5z4np000x356uus4y0vzl",
+        "frame": 41,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v5z4np000x356uus4y0vzl",
+        "frame": 53,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5z7q80011356u06p5q42k",
+        "frame": 61,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5yuys000t356uz2eaqkzy",
+        "frame": 75,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 4,
+    "num_frames": 83,
+    "video": "Fabio Wardley v Frazer Clarke_990_1072"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vhve0x0006356uu1yjlvtd",
+        "frame": 0,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 1,
+    "num_frames": 18,
+    "video": "Ben Whittaker v Ezra Arenyeka_1121_1138"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5z7q80011356u06p5q42k",
+        "frame": 6,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5z4np000x356uus4y0vzl",
+        "frame": 13,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5z7q80011356u06p5q42k",
+        "frame": 27,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5z4np000x356uus4y0vzl",
+        "frame": 38,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 4,
+    "num_frames": 94,
+    "video": "Fabio Wardley v Frazer Clarke_1620_1713"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 5,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 87,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 93,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 106,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9uzox330005356u7bdfqvxq",
+        "frame": 117,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 129,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9uzox330005356u7bdfqvxq",
+        "frame": 257,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v2s4v40009356uiitf5ht6",
+        "frame": 350,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9siy7650006356u25spo8hp",
+        "frame": 360,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 371,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 10,
+    "num_frames": 398,
+    "video": "Ben Whittaker vs Vladimir Belujsky_328_725"
+  },
+  {
+    "events": [
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 40,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 48,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 110,
+        "label": "block"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 117,
+        "label": "block"
+      },
+      {
+        "comment": "cma22vtpz000p3j6t5eymhrpv",
+        "frame": 122,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 147,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vnjv000h3j6txvwc0uug",
+        "frame": 189,
+        "label": "block"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 195,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 204,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 212,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 10,
+    "num_frames": 217,
+    "video": "Savannah Marshall vs Franchon Crews-Dezurn_972_1188"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 38,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 1,
+    "num_frames": 44,
+    "video": "Ben Whittaker vs Vladimir Belujsky_107_150"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi0m7a000x356uume1q1sb",
+        "frame": 28,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vi0m7a000x356uume1q1sb",
+        "frame": 40,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi0m7a000x356uume1q1sb",
+        "frame": 48,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi0m7a000x356uume1q1sb",
+        "frame": 87,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi0m7a000x356uume1q1sb",
+        "frame": 148,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi0qkr0011356ur6biyni4",
+        "frame": 157,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi0m7a000x356uume1q1sb",
+        "frame": 213,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 7,
+    "num_frames": 257,
+    "video": "Ben Whittaker v Leon Willings_748_1004"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi0m7a000x356uume1q1sb",
+        "frame": 13,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vi0m7a000x356uume1q1sb",
+        "frame": 25,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi0qkr0011356ur6biyni4",
+        "frame": 29,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 3,
+    "num_frames": 36,
+    "video": "Ben Whittaker v Leon Willings_460_495"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v64v8w001t356u2f1rovut",
+        "frame": 25,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v64o9w001p356u2opwv7fs",
+        "frame": 39,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 2,
+    "num_frames": 44,
+    "video": "Liam Smith vs Chris Eubank Jr 2_667_710"
+  },
+  {
+    "events": [
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 6,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vtpz000p3j6t5eymhrpv",
+        "frame": 11,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 37,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 38,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 71,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 5,
+    "num_frames": 76,
+    "video": "Savannah Marshall vs Franchon Crews-Dezurn_0_75"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi10ei0016356ue6xq078b",
+        "frame": 3,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 8,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 19,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 20,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 30,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi10ei0016356ue6xq078b",
+        "frame": 41,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi16fj001f356u9pfz34df",
+        "frame": 48,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 49,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi16fj001f356u9pfz34df",
+        "frame": 60,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 9,
+    "num_frames": 63,
+    "video": "Caroline Dubois v Maira Moneo_2788_2850"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 9,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi10ei0016356ue6xq078b",
+        "frame": 10,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vi16fj001f356u9pfz34df",
+        "frame": 42,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 44,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 52,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 5,
+    "num_frames": 67,
+    "video": "Caroline Dubois v Maira Moneo_378_444"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vhve0x0006356uu1yjlvtd",
+        "frame": 12,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 13,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vhve0x0006356uu1yjlvtd",
+        "frame": 35,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vhxbmm000c356ua6y4dj19",
+        "frame": 41,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 4,
+    "num_frames": 53,
+    "video": "Ben Whittaker v Ezra Arenyeka_2679_2731"
+  },
+  {
+    "events": [
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 5,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 7,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 47,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vnjv000h3j6txvwc0uug",
+        "frame": 49,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 66,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 83,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 6,
+    "num_frames": 92,
+    "video": "Savannah Marshall vs Franchon Crews-Dezurn_541_632"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v64v8w001t356u2f1rovut",
+        "frame": 9,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v661rc0025356uvwkryjnx",
+        "frame": 24,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v64v8w001t356u2f1rovut",
+        "frame": 25,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 3,
+    "num_frames": 31,
+    "video": "Liam Smith vs Chris Eubank Jr 2_1071_1101"
+  },
+  {
+    "events": [],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 0,
+    "num_frames": 197,
+    "video": "Jessica McCaskill v Lauren Price_2264_2460"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 61,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v5yuys000t356uz2eaqkzy",
+        "frame": 66,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 2,
+    "num_frames": 104,
+    "video": "Fabio Wardley v Frazer Clarke_1242_1345"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi1uzq001x356uohz90ipg",
+        "frame": 13,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi225o0021356u3wi37j6f",
+        "frame": 19,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi1uzq001x356uohz90ipg",
+        "frame": 70,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi1nvv001p356u4uwdiyqb",
+        "frame": 122,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi225o0021356u3wi37j6f",
+        "frame": 128,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 5,
+    "num_frames": 139,
+    "video": "Chris Billam-Smith v Richard Riakporhe 2_823_961"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v64o9w001p356u2opwv7fs",
+        "frame": 36,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v65vie0021356ujetivtbr",
+        "frame": 42,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v64o9w001p356u2opwv7fs",
+        "frame": 49,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v64o9w001p356u2opwv7fs",
+        "frame": 57,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 4,
+    "num_frames": 63,
+    "video": "Liam Smith vs Chris Eubank Jr 2_359_421"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v65vie0021356ujetivtbr",
+        "frame": 17,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v64o9w001p356u2opwv7fs",
+        "frame": 22,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v64o9w001p356u2opwv7fs",
+        "frame": 42,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v64o9w001p356u2opwv7fs",
+        "frame": 50,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 4,
+    "num_frames": 54,
+    "video": "Liam Smith vs Chris Eubank Jr 2_0_53"
+  },
+  {
+    "events": [],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 0,
+    "num_frames": 123,
+    "video": "Jessica McCaskill v Lauren Price_2004_2126"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5z4np000x356uus4y0vzl",
+        "frame": 4,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5z7q80011356u06p5q42k",
+        "frame": 12,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 2,
+    "num_frames": 42,
+    "video": "Fabio Wardley v Frazer Clarke_239_280"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 27,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5z7q80011356u06p5q42k",
+        "frame": 28,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5yuys000t356uz2eaqkzy",
+        "frame": 31,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5z4np000x356uus4y0vzl",
+        "frame": 48,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5z7q80011356u06p5q42k",
+        "frame": 77,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 5,
+    "num_frames": 121,
+    "video": "Fabio Wardley v Frazer Clarke_641_761"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 5,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 8,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 10,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 3,
+    "num_frames": 75,
+    "video": "Jessica McCaskill v Lauren Price_1025_1099"
+  },
+  {
+    "events": [
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 24,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 26,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 29,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vnjv000h3j6txvwc0uug",
+        "frame": 30,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 42,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 66,
+        "label": "block"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 79,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 91,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 8,
+    "num_frames": 113,
+    "video": "Savannah Marshall vs Franchon Crews-Dezurn_1796_1908"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 7,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5z7q80011356u06p5q42k",
+        "frame": 14,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v5yuys000t356uz2eaqkzy",
+        "frame": 46,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5yuys000t356uz2eaqkzy",
+        "frame": 77,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 87,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5yuys000t356uz2eaqkzy",
+        "frame": 97,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 107,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 7,
+    "num_frames": 112,
+    "video": "Fabio Wardley v Frazer Clarke_2138_2249"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 2,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zvtf001i356ut3nuivxr",
+        "frame": 3,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 97,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 105,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 4,
+    "num_frames": 108,
+    "video": "Jessica McCaskill v Lauren Price_403_510"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 70,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 79,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 2,
+    "num_frames": 98,
+    "video": "Zak Chilli Callum Simpson_1179_1276"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v64o9w001p356u2opwv7fs",
+        "frame": 2,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 1,
+    "num_frames": 40,
+    "video": "Liam Smith vs Chris Eubank Jr 2_449_488"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vhve0x0006356uu1yjlvtd",
+        "frame": 0,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vhve0x0006356uu1yjlvtd",
+        "frame": 36,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vhve0x0006356uu1yjlvtd",
+        "frame": 48,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vhxbmm000c356ua6y4dj19",
+        "frame": 87,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vhve0x0006356uu1yjlvtd",
+        "frame": 92,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 5,
+    "num_frames": 98,
+    "video": "Ben Whittaker v Ezra Arenyeka_1890_1987"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi1uzq001x356uohz90ipg",
+        "frame": 41,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi1nvv001p356u4uwdiyqb",
+        "frame": 47,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi1uzq001x356uohz90ipg",
+        "frame": 103,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 3,
+    "num_frames": 114,
+    "video": "Chris Billam-Smith v Richard Riakporhe 2_385_498"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi1uzq001x356uohz90ipg",
+        "frame": 13,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi1uzq001x356uohz90ipg",
+        "frame": 29,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi1nvv001p356u4uwdiyqb",
+        "frame": 47,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi1nvv001p356u4uwdiyqb",
+        "frame": 55,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi1srl001t356uba6ixn1r",
+        "frame": 60,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 5,
+    "num_frames": 68,
+    "video": "Chris Billam-Smith v Richard Riakporhe 2_80_147"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 7,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi10ei0016356ue6xq078b",
+        "frame": 41,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 46,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 57,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 4,
+    "num_frames": 61,
+    "video": "Caroline Dubois v Maira Moneo_2458_2518"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v64o9w001p356u2opwv7fs",
+        "frame": 13,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v64v8w001t356u2f1rovut",
+        "frame": 18,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v64o9w001p356u2opwv7fs",
+        "frame": 22,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 3,
+    "num_frames": 28,
+    "video": "Liam Smith vs Chris Eubank Jr 2_54_81"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 23,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 33,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 2,
+    "num_frames": 48,
+    "video": "Ben Whittaker v Ezra Arenyeka_578_625"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 8,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 25,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi10ei0016356ue6xq078b",
+        "frame": 35,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 58,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 59,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi10ei0016356ue6xq078b",
+        "frame": 66,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 94,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi10ei0016356ue6xq078b",
+        "frame": 103,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 140,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 149,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 158,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 207,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 12,
+    "num_frames": 234,
+    "video": "Caroline Dubois v Maira Moneo_2074_2307"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 0,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 50,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5z4np000x356uus4y0vzl",
+        "frame": 50,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 3,
+    "num_frames": 60,
+    "video": "Fabio Wardley v Frazer Clarke_1869_1928"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v64o9w001p356u2opwv7fs",
+        "frame": 9,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v64v8w001t356u2f1rovut",
+        "frame": 15,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 2,
+    "num_frames": 24,
+    "video": "Liam Smith vs Chris Eubank Jr 2_1000_1023"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 56,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 62,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zvtf001i356ut3nuivxr",
+        "frame": 63,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 66,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 76,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 77,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 82,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zvtf001i356ut3nuivxr",
+        "frame": 84,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 106,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v5zvtf001i356ut3nuivxr",
+        "frame": 109,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 113,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 11,
+    "num_frames": 115,
+    "video": "Jessica McCaskill v Lauren Price_0_114"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 11,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vhxocs000k356uat8611ou",
+        "frame": 64,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 88,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vhve0x0006356uu1yjlvtd",
+        "frame": 91,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 4,
+    "num_frames": 131,
+    "video": "Ben Whittaker v Ezra Arenyeka_791_921"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vhve0x0006356uu1yjlvtd",
+        "frame": 7,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vhxbmm000c356ua6y4dj19",
+        "frame": 15,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vhve0x0006356uu1yjlvtd",
+        "frame": 42,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 44,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 4,
+    "num_frames": 60,
+    "video": "Ben Whittaker v Ezra Arenyeka_1618_1677"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi0m7a000x356uume1q1sb",
+        "frame": 15,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi0m7a000x356uume1q1sb",
+        "frame": 82,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 2,
+    "num_frames": 95,
+    "video": "Ben Whittaker v Leon Willings_305_399"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi0gwd000p356uh7j03oz3",
+        "frame": 30,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi0jkk000t356uw1epauwa",
+        "frame": 39,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi0gwd000p356uh7j03oz3",
+        "frame": 116,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi0gwd000p356uh7j03oz3",
+        "frame": 133,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vi0jkk000t356uw1epauwa",
+        "frame": 137,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vi0gwd000p356uh7j03oz3",
+        "frame": 152,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi0gwd000p356uh7j03oz3",
+        "frame": 162,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi0gwd000p356uh7j03oz3",
+        "frame": 183,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi0gwd000p356uh7j03oz3",
+        "frame": 200,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 9,
+    "num_frames": 214,
+    "video": "Ben Whittaker v Leon Willings_1253_1466"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 123,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 131,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 2,
+    "num_frames": 135,
+    "video": "Jessica McCaskill v Lauren Price_1603_1737"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi1uzq001x356uohz90ipg",
+        "frame": 6,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vi1uzq001x356uohz90ipg",
+        "frame": 16,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vi1uzq001x356uohz90ipg",
+        "frame": 42,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi1nvv001p356u4uwdiyqb",
+        "frame": 78,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi1nvv001p356u4uwdiyqb",
+        "frame": 123,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vi1nvv001p356u4uwdiyqb",
+        "frame": 187,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi1uzq001x356uohz90ipg",
+        "frame": 188,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 7,
+    "num_frames": 237,
+    "video": "Chris Billam-Smith v Richard Riakporhe 2_148_384"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi1uzq001x356uohz90ipg",
+        "frame": 68,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 1,
+    "num_frames": 72,
+    "video": "Chris Billam-Smith v Richard Riakporhe 2_1762_1833"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 22,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 1,
+    "num_frames": 37,
+    "video": "Jessica McCaskill v Lauren Price_366_402"
+  },
+  {
+    "events": [
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 9,
+        "label": "block"
+      },
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 45,
+        "label": "block"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 50,
+        "label": "block"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 57,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vnjv000h3j6txvwc0uug",
+        "frame": 59,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 70,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 72,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 7,
+    "num_frames": 78,
+    "video": "Savannah Marshall vs Franchon Crews-Dezurn_850_927"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 78,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 1,
+    "num_frames": 215,
+    "video": "Ben Whittaker v Ezra Arenyeka_363_577"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 11,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 55,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi10ei0016356ue6xq078b",
+        "frame": 97,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 139,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 146,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 150,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 159,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 201,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vi16fj001f356u9pfz34df",
+        "frame": 207,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 235,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 250,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 254,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 12,
+    "num_frames": 283,
+    "video": "Caroline Dubois v Maira Moneo_749_1031"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5yuys000t356uz2eaqkzy",
+        "frame": 5,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 31,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5z4np000x356uus4y0vzl",
+        "frame": 32,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 44,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 60,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5z4np000x356uus4y0vzl",
+        "frame": 71,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5yuys000t356uz2eaqkzy",
+        "frame": 73,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5z7q80011356u06p5q42k",
+        "frame": 75,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5z4np000x356uus4y0vzl",
+        "frame": 89,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5z7q80011356u06p5q42k",
+        "frame": 124,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5yuys000t356uz2eaqkzy",
+        "frame": 130,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 11,
+    "num_frames": 153,
+    "video": "Fabio Wardley v Frazer Clarke_360_512"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 63,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 1,
+    "num_frames": 68,
+    "video": "Jessica McCaskill v Lauren Price_872_939"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5yuys000t356uz2eaqkzy",
+        "frame": 14,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 63,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v5z4np000x356uus4y0vzl",
+        "frame": 72,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 3,
+    "num_frames": 79,
+    "video": "Fabio Wardley v Frazer Clarke_281_359"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 31,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 1,
+    "num_frames": 41,
+    "video": "Ben Whittaker v Ezra Arenyeka_1678_1718"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v65vie0021356ujetivtbr",
+        "frame": 0,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v65vie0021356ujetivtbr",
+        "frame": 7,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v661rc0025356uvwkryjnx",
+        "frame": 13,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v661rc0025356uvwkryjnx",
+        "frame": 14,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v661rc0025356uvwkryjnx",
+        "frame": 26,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v661rc0025356uvwkryjnx",
+        "frame": 67,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 6,
+    "num_frames": 85,
+    "video": "Liam Smith vs Chris Eubank Jr 2_156_240"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi1uzq001x356uohz90ipg",
+        "frame": 37,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi1nvv001p356u4uwdiyqb",
+        "frame": 38,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi225o0021356u3wi37j6f",
+        "frame": 47,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi1nvv001p356u4uwdiyqb",
+        "frame": 56,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 4,
+    "num_frames": 59,
+    "video": "Chris Billam-Smith v Richard Riakporhe 2_764_822"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v64o9w001p356u2opwv7fs",
+        "frame": 26,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v661rc0025356uvwkryjnx",
+        "frame": 27,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v64v8w001t356u2f1rovut",
+        "frame": 34,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 3,
+    "num_frames": 74,
+    "video": "Liam Smith vs Chris Eubank Jr 2_82_155"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vhxocs000k356uat8611ou",
+        "frame": 3,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vhxocs000k356uat8611ou",
+        "frame": 26,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 60,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 68,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 77,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 5,
+    "num_frames": 78,
+    "video": "Ben Whittaker v Ezra Arenyeka_1043_1120"
+  },
+  {
+    "events": [],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 0,
+    "num_frames": 24,
+    "video": "Chris Billam-Smith v Richard Riakporhe 2_1445_1468"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5zvtf001i356ut3nuivxr",
+        "frame": 19,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 23,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 25,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 29,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 37,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 40,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 6,
+    "num_frames": 45,
+    "video": "Jessica McCaskill v Lauren Price_1558_1602"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi0m7a000x356uume1q1sb",
+        "frame": 109,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vi0qkr0011356ur6biyni4",
+        "frame": 121,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi0m7a000x356uume1q1sb",
+        "frame": 154,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vi0qkr0011356ur6biyni4",
+        "frame": 160,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi0gwd000p356uh7j03oz3",
+        "frame": 168,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 5,
+    "num_frames": 252,
+    "video": "Ben Whittaker v Leon Willings_496_747"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi16fj001f356u9pfz34df",
+        "frame": 13,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 25,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 2,
+    "num_frames": 29,
+    "video": "Caroline Dubois v Maira Moneo_2595_2623"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5zvtf001i356ut3nuivxr",
+        "frame": 17,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zvtf001i356ut3nuivxr",
+        "frame": 29,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 34,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 36,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zvtf001i356ut3nuivxr",
+        "frame": 46,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zvtf001i356ut3nuivxr",
+        "frame": 65,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 69,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 7,
+    "num_frames": 84,
+    "video": "Jessica McCaskill v Lauren Price_1395_1478"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 14,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vhxocs000k356uat8611ou",
+        "frame": 17,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 24,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 64,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vhxocs000k356uat8611ou",
+        "frame": 74,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 111,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 121,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vhxbmm000c356ua6y4dj19",
+        "frame": 133,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vhxocs000k356uat8611ou",
+        "frame": 185,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 9,
+    "num_frames": 194,
+    "video": "Ben Whittaker v Ezra Arenyeka_2248_2441"
+  },
+  {
+    "events": [
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 16,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 20,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vtpz000p3j6t5eymhrpv",
+        "frame": 22,
+        "label": "block"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 34,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 4,
+    "num_frames": 41,
+    "video": "Savannah Marshall vs Franchon Crews-Dezurn_681_721"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi225o0021356u3wi37j6f",
+        "frame": 17,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vi1nvv001p356u4uwdiyqb",
+        "frame": 39,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi1nvv001p356u4uwdiyqb",
+        "frame": 55,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi1uzq001x356uohz90ipg",
+        "frame": 59,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 4,
+    "num_frames": 61,
+    "video": "Chris Billam-Smith v Richard Riakporhe 2_1384_1444"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 4,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 37,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9siy7650006356u25spo8hp",
+        "frame": 41,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 46,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9siy7650006356u25spo8hp",
+        "frame": 52,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 5,
+    "num_frames": 63,
+    "video": "Ben Whittaker vs Vladimir Belujsky_808_870"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5yuys000t356uz2eaqkzy",
+        "frame": 4,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 14,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5yuys000t356uz2eaqkzy",
+        "frame": 24,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5z4np000x356uus4y0vzl",
+        "frame": 27,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 4,
+    "num_frames": 36,
+    "video": "Fabio Wardley v Frazer Clarke_1206_1241"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 14,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9s8n3ku000b356u3h024ael",
+        "frame": 105,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 111,
+        "label": "block"
+      },
+      {
+        "comment": "cm9s8ottm000p356ug46otk2j",
+        "frame": 154,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 4,
+    "num_frames": 161,
+    "video": "Zak Chilli Callum Simpson_821_981"
+  },
+  {
+    "events": [
+      {
+        "comment": "cma22vtpz000p3j6t5eymhrpv",
+        "frame": 21,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vnjv000h3j6txvwc0uug",
+        "frame": 25,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 34,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 45,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 75,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 5,
+    "num_frames": 92,
+    "video": "Savannah Marshall vs Franchon Crews-Dezurn_1610_1701"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9s8n3ku000b356u3h024ael",
+        "frame": 39,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 46,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 2,
+    "num_frames": 64,
+    "video": "Zak Chilli Callum Simpson_0_63"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi1nvv001p356u4uwdiyqb",
+        "frame": 54,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 1,
+    "num_frames": 80,
+    "video": "Chris Billam-Smith v Richard Riakporhe 2_0_79"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi1nvv001p356u4uwdiyqb",
+        "frame": 35,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi225o0021356u3wi37j6f",
+        "frame": 38,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi225o0021356u3wi37j6f",
+        "frame": 47,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 3,
+    "num_frames": 66,
+    "video": "Chris Billam-Smith v Richard Riakporhe 2_646_711"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5z7q80011356u06p5q42k",
+        "frame": 13,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5z4np000x356uus4y0vzl",
+        "frame": 23,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 2,
+    "num_frames": 53,
+    "video": "Fabio Wardley v Frazer Clarke_588_640"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 12,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi10ei0016356ue6xq078b",
+        "frame": 19,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 53,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vi16fj001f356u9pfz34df",
+        "frame": 56,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 57,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi10ei0016356ue6xq078b",
+        "frame": 62,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 66,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 68,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 8,
+    "num_frames": 94,
+    "video": "Caroline Dubois v Maira Moneo_2308_2401"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi1uzq001x356uohz90ipg",
+        "frame": 20,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi1nvv001p356u4uwdiyqb",
+        "frame": 26,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi1nvv001p356u4uwdiyqb",
+        "frame": 57,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi1nvv001p356u4uwdiyqb",
+        "frame": 100,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vi1srl001t356uba6ixn1r",
+        "frame": 105,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 5,
+    "num_frames": 110,
+    "video": "Chris Billam-Smith v Richard Riakporhe 2_1087_1196"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v64v8w001t356u2f1rovut",
+        "frame": 2,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v64v8w001t356u2f1rovut",
+        "frame": 3,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v64v8w001t356u2f1rovut",
+        "frame": 20,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v64v8w001t356u2f1rovut",
+        "frame": 21,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v64o9w001p356u2opwv7fs",
+        "frame": 37,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 5,
+    "num_frames": 72,
+    "video": "Liam Smith vs Chris Eubank Jr 2_241_312"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 28,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 1,
+    "num_frames": 29,
+    "video": "Jessica McCaskill v Lauren Price_2638_2666"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vhve0x0006356uu1yjlvtd",
+        "frame": 118,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vhve0x0006356uu1yjlvtd",
+        "frame": 178,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 2,
+    "num_frames": 212,
+    "video": "Ben Whittaker v Ezra Arenyeka_0_211"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9s8n3ku000b356u3h024ael",
+        "frame": 1,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 7,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9s8nakx000f356uq3sksuot",
+        "frame": 13,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 23,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 4,
+    "num_frames": 25,
+    "video": "Zak Chilli Callum Simpson_556_580"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9uzox330005356u7bdfqvxq",
+        "frame": 11,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 24,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 2,
+    "num_frames": 38,
+    "video": "Ben Whittaker vs Vladimir Belujsky_986_1023"
+  },
+  {
+    "events": [
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 8,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 55,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 57,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vnjv000h3j6txvwc0uug",
+        "frame": 63,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 4,
+    "num_frames": 66,
+    "video": "Savannah Marshall vs Franchon Crews-Dezurn_1730_1795"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vhve0x0006356uu1yjlvtd",
+        "frame": 11,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vhxbmm000c356ua6y4dj19",
+        "frame": 18,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 2,
+    "num_frames": 58,
+    "video": "Ben Whittaker v Ezra Arenyeka_212_269"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 12,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi10ei0016356ue6xq078b",
+        "frame": 29,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi16fj001f356u9pfz34df",
+        "frame": 38,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 47,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 66,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 71,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi10ei0016356ue6xq078b",
+        "frame": 82,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 103,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vi10ei0016356ue6xq078b",
+        "frame": 110,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 120,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 142,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 158,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi10ei0016356ue6xq078b",
+        "frame": 166,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 167,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi16fj001f356u9pfz34df",
+        "frame": 173,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 174,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 186,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 192,
+        "label": "block"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 208,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 211,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 231,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 242,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 22,
+    "num_frames": 249,
+    "video": "Caroline Dubois v Maira Moneo_1520_1768"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi16fj001f356u9pfz34df",
+        "frame": 11,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 23,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 27,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi16fj001f356u9pfz34df",
+        "frame": 79,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 80,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 106,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 6,
+    "num_frames": 112,
+    "video": "Caroline Dubois v Maira Moneo_445_556"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 4,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 16,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vhxbmm000c356ua6y4dj19",
+        "frame": 20,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vhve0x0006356uu1yjlvtd",
+        "frame": 93,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 164,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 5,
+    "num_frames": 165,
+    "video": "Ben Whittaker v Ezra Arenyeka_626_790"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi1uzq001x356uohz90ipg",
+        "frame": 39,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi225o0021356u3wi37j6f",
+        "frame": 52,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vi1uzq001x356uohz90ipg",
+        "frame": 58,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi1nvv001p356u4uwdiyqb",
+        "frame": 83,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi225o0021356u3wi37j6f",
+        "frame": 84,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 5,
+    "num_frames": 90,
+    "video": "Chris Billam-Smith v Richard Riakporhe 2_1672_1761"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 93,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 1,
+    "num_frames": 106,
+    "video": "Zak Chilli Callum Simpson_291_396"
+  },
+  {
+    "events": [
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 9,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 12,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 44,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 46,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vtpz000p3j6t5eymhrpv",
+        "frame": 50,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 71,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 114,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 120,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 186,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vnjv000h3j6txvwc0uug",
+        "frame": 191,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vtpz000p3j6t5eymhrpv",
+        "frame": 192,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 202,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 205,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 13,
+    "num_frames": 212,
+    "video": "Savannah Marshall vs Franchon Crews-Dezurn_102_313"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 79,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9s8n3ku000b356u3h024ael",
+        "frame": 82,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 86,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 138,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9s8n3ku000b356u3h024ael",
+        "frame": 139,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 5,
+    "num_frames": 158,
+    "video": "Zak Chilli Callum Simpson_581_738"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5z4np000x356uus4y0vzl",
+        "frame": 11,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 12,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 19,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 31,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 154,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v5yuys000t356uz2eaqkzy",
+        "frame": 157,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 197,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 7,
+    "num_frames": 207,
+    "video": "Fabio Wardley v Frazer Clarke_0_206"
+  },
+  {
+    "events": [
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 25,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 28,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 64,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vtpz000p3j6t5eymhrpv",
+        "frame": 68,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vnjv000h3j6txvwc0uug",
+        "frame": 77,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 5,
+    "num_frames": 82,
+    "video": "Savannah Marshall vs Franchon Crews-Dezurn_372_453"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9s8ottm000p356ug46otk2j",
+        "frame": 5,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9s8nakx000f356uq3sksuot",
+        "frame": 14,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 22,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 3,
+    "num_frames": 43,
+    "video": "Zak Chilli Callum Simpson_397_439"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9s8ottm000p356ug46otk2j",
+        "frame": 6,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 26,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9s8nakx000f356uq3sksuot",
+        "frame": 29,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9s8ottm000p356ug46otk2j",
+        "frame": 75,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 88,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9s8n3ku000b356u3h024ael",
+        "frame": 89,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 6,
+    "num_frames": 99,
+    "video": "Zak Chilli Callum Simpson_1024_1122"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi225o0021356u3wi37j6f",
+        "frame": 5,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi1uzq001x356uohz90ipg",
+        "frame": 13,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi1nvv001p356u4uwdiyqb",
+        "frame": 22,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi225o0021356u3wi37j6f",
+        "frame": 24,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi1uzq001x356uohz90ipg",
+        "frame": 40,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 5,
+    "num_frames": 52,
+    "video": "Chris Billam-Smith v Richard Riakporhe 2_712_763"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 27,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 1,
+    "num_frames": 29,
+    "video": "Jessica McCaskill v Lauren Price_2208_2236"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 20,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 22,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 26,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zvtf001i356ut3nuivxr",
+        "frame": 31,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 33,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 5,
+    "num_frames": 62,
+    "video": "Jessica McCaskill v Lauren Price_1479_1540"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 5,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 11,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 14,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 22,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 25,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 164,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 172,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 7,
+    "num_frames": 177,
+    "video": "Jessica McCaskill v Lauren Price_2461_2637"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5z4np000x356uus4y0vzl",
+        "frame": 39,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v5yuys000t356uz2eaqkzy",
+        "frame": 44,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5z7q80011356u06p5q42k",
+        "frame": 45,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 66,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 4,
+    "num_frames": 94,
+    "video": "Fabio Wardley v Frazer Clarke_2044_2137"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vhve0x0006356uu1yjlvtd",
+        "frame": 76,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vhxbmm000c356ua6y4dj19",
+        "frame": 80,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vhve0x0006356uu1yjlvtd",
+        "frame": 86,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vhve0x0006356uu1yjlvtd",
+        "frame": 95,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 4,
+    "num_frames": 108,
+    "video": "Ben Whittaker v Ezra Arenyeka_2854_2961"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9uzox330005356u7bdfqvxq",
+        "frame": 37,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 41,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 2,
+    "num_frames": 54,
+    "video": "Ben Whittaker vs Vladimir Belujsky_1024_1077"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 11,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 1,
+    "num_frames": 15,
+    "video": "Ben Whittaker vs Vladimir Belujsky_151_165"
+  },
+  {
+    "events": [
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 4,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 25,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 2,
+    "num_frames": 28,
+    "video": "Savannah Marshall vs Franchon Crews-Dezurn_1702_1729"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vhxbmm000c356ua6y4dj19",
+        "frame": 54,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vhxocs000k356uat8611ou",
+        "frame": 60,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vhxgej000g356uoom06wdg",
+        "frame": 80,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 3,
+    "num_frames": 91,
+    "video": "Ben Whittaker v Ezra Arenyeka_922_1012"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9s8nakx000f356uq3sksuot",
+        "frame": 42,
+        "label": "block"
+      },
+      {
+        "comment": "cm9s8n3ku000b356u3h024ael",
+        "frame": 57,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 2,
+    "num_frames": 68,
+    "video": "Zak Chilli Callum Simpson_488_555"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 4,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 10,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 15,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 34,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 120,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 124,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 134,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 7,
+    "num_frames": 138,
+    "video": "Jessica McCaskill v Lauren Price_1828_1965"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 34,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zvtf001i356ut3nuivxr",
+        "frame": 35,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 38,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 58,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 59,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 78,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 85,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zvtf001i356ut3nuivxr",
+        "frame": 89,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 8,
+    "num_frames": 90,
+    "video": "Jessica McCaskill v Lauren Price_1738_1827"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 24,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 52,
+        "label": "block"
+      },
+      {
+        "comment": "cm9siy7650006356u25spo8hp",
+        "frame": 56,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 84,
+        "label": "block"
+      },
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 91,
+        "label": "block"
+      },
+      {
+        "comment": "cm9siy7650006356u25spo8hp",
+        "frame": 95,
+        "label": "block"
+      },
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 100,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 7,
+    "num_frames": 115,
+    "video": "Ben Whittaker vs Vladimir Belujsky_871_985"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 3,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9siy7650006356u25spo8hp",
+        "frame": 7,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 13,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 15,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9siy7650006356u25spo8hp",
+        "frame": 19,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 26,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 6,
+    "num_frames": 30,
+    "video": "Ben Whittaker vs Vladimir Belujsky_1155_1184"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 10,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 18,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5yuys000t356uz2eaqkzy",
+        "frame": 24,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 31,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 4,
+    "num_frames": 32,
+    "video": "Fabio Wardley v Frazer Clarke_207_238"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 87,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zvtf001i356ut3nuivxr",
+        "frame": 89,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 94,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 100,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 122,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 208,
+        "label": "block"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 211,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 213,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zkdw001a356urlfd30sr",
+        "frame": 221,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zvtf001i356ut3nuivxr",
+        "frame": 227,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5zpxc001e356ufa6o54gr",
+        "frame": 256,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 11,
+    "num_frames": 263,
+    "video": "Jessica McCaskill v Lauren Price_511_773"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 29,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 36,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi16fj001f356u9pfz34df",
+        "frame": 48,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 49,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi10ei0016356ue6xq078b",
+        "frame": 57,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 58,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 69,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 72,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi10ei0016356ue6xq078b",
+        "frame": 79,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 111,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 112,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi16fj001f356u9pfz34df",
+        "frame": 121,
+        "label": "block"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 147,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 161,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi10ei0016356ue6xq078b",
+        "frame": 167,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 15,
+    "num_frames": 187,
+    "video": "Caroline Dubois v Maira Moneo_1829_2015"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v64v8w001t356u2f1rovut",
+        "frame": 3,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v64o9w001p356u2opwv7fs",
+        "frame": 10,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v64o9w001p356u2opwv7fs",
+        "frame": 37,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 3,
+    "num_frames": 41,
+    "video": "Liam Smith vs Chris Eubank Jr 2_489_529"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5zvtf001i356ut3nuivxr",
+        "frame": 30,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5zgi80016356uv9u9via4",
+        "frame": 37,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 2,
+    "num_frames": 46,
+    "video": "Jessica McCaskill v Lauren Price_940_985"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vhxbmm000c356ua6y4dj19",
+        "frame": 5,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 1,
+    "num_frames": 41,
+    "video": "Ben Whittaker v Ezra Arenyeka_2638_2678"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v64o9w001p356u2opwv7fs",
+        "frame": 34,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v64v8w001t356u2f1rovut",
+        "frame": 42,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 2,
+    "num_frames": 46,
+    "video": "Liam Smith vs Chris Eubank Jr 2_313_358"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v64o9w001p356u2opwv7fs",
+        "frame": 44,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v661rc0025356uvwkryjnx",
+        "frame": 53,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 2,
+    "num_frames": 68,
+    "video": "Liam Smith vs Chris Eubank Jr 2_530_597"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5yuys000t356uz2eaqkzy",
+        "frame": 61,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 1,
+    "num_frames": 87,
+    "video": "Fabio Wardley v Frazer Clarke_1957_2043"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 31,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5z4np000x356uus4y0vzl",
+        "frame": 40,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 2,
+    "num_frames": 85,
+    "video": "Fabio Wardley v Frazer Clarke_1073_1157"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi0gwd000p356uh7j03oz3",
+        "frame": 9,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi0gwd000p356uh7j03oz3",
+        "frame": 39,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi0gwd000p356uh7j03oz3",
+        "frame": 47,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi0jkk000t356uw1epauwa",
+        "frame": 53,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vi0gwd000p356uh7j03oz3",
+        "frame": 58,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi0jkk000t356uw1epauwa",
+        "frame": 88,
+        "label": "block"
+      },
+      {
+        "comment": "cm9vi0gwd000p356uh7j03oz3",
+        "frame": 100,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 7,
+    "num_frames": 101,
+    "video": "Ben Whittaker v Leon Willings_18_118"
+  },
+  {
+    "events": [
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 35,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vtpz000p3j6t5eymhrpv",
+        "frame": 38,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 2,
+    "num_frames": 44,
+    "video": "Savannah Marshall vs Franchon Crews-Dezurn_928_971"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9s8nakx000f356uq3sksuot",
+        "frame": 11,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9s8ottm000p356ug46otk2j",
+        "frame": 12,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9s8nakx000f356uq3sksuot",
+        "frame": 19,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9s8n3ku000b356u3h024ael",
+        "frame": 25,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 34,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9s8nakx000f356uq3sksuot",
+        "frame": 49,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 6,
+    "num_frames": 50,
+    "video": "Zak Chilli Callum Simpson_128_177"
+  },
+  {
+    "events": [],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 0,
+    "num_frames": 26,
+    "video": "Savannah Marshall vs Franchon Crews-Dezurn_76_101"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi0gwd000p356uh7j03oz3",
+        "frame": 4,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi0gwd000p356uh7j03oz3",
+        "frame": 111,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi0qkr0011356ur6biyni4",
+        "frame": 112,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi0gwd000p356uh7j03oz3",
+        "frame": 168,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 4,
+    "num_frames": 178,
+    "video": "Ben Whittaker v Leon Willings_1005_1182"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 8,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi10ei0016356ue6xq078b",
+        "frame": 60,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 64,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 3,
+    "num_frames": 67,
+    "video": "Caroline Dubois v Maira Moneo_2720_2786"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 29,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9vi16fj001f356u9pfz34df",
+        "frame": 36,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9vi12ve001b356upqy83rw6",
+        "frame": 77,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 80,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 126,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 5,
+    "num_frames": 134,
+    "video": "Caroline Dubois v Maira Moneo_244_377"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 47,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5z7q80011356u06p5q42k",
+        "frame": 59,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5yuys000t356uz2eaqkzy",
+        "frame": 81,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5yope000o356u73z4qu93",
+        "frame": 114,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v5yuys000t356uz2eaqkzy",
+        "frame": 121,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9v5yuys000t356uz2eaqkzy",
+        "frame": 144,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 6,
+    "num_frames": 155,
+    "video": "Fabio Wardley v Frazer Clarke_1714_1868"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9vi16fj001f356u9pfz34df",
+        "frame": 0,
+        "label": "block"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 5,
+        "label": "block"
+      },
+      {
+        "comment": "cm9zlgzys000b2a6hcumbf216",
+        "frame": 21,
+        "label": "block"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 3,
+    "num_frames": 32,
+    "video": "Caroline Dubois v Maira Moneo_557_588"
+  },
+  {
+    "events": [
+      {
+        "comment": "cma22t80r00073j6tcs5lytkj",
+        "frame": 8,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 11,
+        "label": "miss"
+      },
+      {
+        "comment": "cma22vtpz000p3j6t5eymhrpv",
+        "frame": 19,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 52,
+        "label": "hit"
+      },
+      {
+        "comment": "cma22vqg0000l3j6tsqhkl02f",
+        "frame": 89,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 5,
+    "num_frames": 95,
+    "video": "Savannah Marshall vs Franchon Crews-Dezurn_722_816"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9uzox330005356u7bdfqvxq",
+        "frame": 6,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9uzox330005356u7bdfqvxq",
+        "frame": 19,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9s8k2cs0006356ur2llhh27",
+        "frame": 48,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9v2s4v40009356uiitf5ht6",
+        "frame": 54,
+        "label": "hit"
+      }
+    ],
+    "fps": 25.0,
+    "height": 1080,
+    "width": 1920,
+    "num_events": 4,
+    "num_frames": 59,
+    "video": "Ben Whittaker vs Vladimir Belujsky_726_784"
+  },
+  {
+    "events": [
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 12,
+        "label": "block"
+      },
+      {
+        "comment": "cm9s8ottm000p356ug46otk2j",
+        "frame": 16,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 33,
+        "label": "hit"
+      },
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 83,
+        "label": "block"
+      },
+      {
+        "comment": "cm9s8n3ku000b356u3h024ael",
+        "frame": 92,
+        "label": "miss"
+      },
+      {
+        "comment": "cm9s8ntl0000j356u0y6li6in",
+        "frame": 99,
+        "label": "miss"
+      }
+    ],
+    "fps": 25.0,
+    "height": 720,
+    "width": 1280,
+    "num_events": 6,
+    "num_frames": 113,
+    "video": "Zak Chilli Callum Simpson_178_290"
+  }
+]

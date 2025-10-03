@@ -1,0 +1,3292 @@
+[
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 5,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 48,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 48,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 358,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 501,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 503,
+    "video": "GH159681_12718_13221",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 130,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 136,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 249,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 381,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 386,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 454,
+    "video": "GH178416_12818_13272",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 8,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 63,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 84,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 200,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 271,
+        "label": "miss"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 280,
+    "video": "GH189681_315_595",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 68,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 218,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 325,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 400,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 427,
+        "label": "miss"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 656,
+    "video": "GH139681_510_1166",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 5,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 12,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 81,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 85,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 545,
+        "label": "block"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 546,
+    "video": "GH118416_12039_12585",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 16,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 309,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 320,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 324,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 337,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 346,
+    "video": "GH158416_7348_7694",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 32,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 40,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 81,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 89,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 95,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 101,
+    "video": "GH119681_2206_2307",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 111,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 121,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 148,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 233,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 244,
+        "label": "block"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 250,
+    "video": "GH079681_425_675",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 10,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 32,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 103,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 118,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 147,
+        "label": "block"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 154,
+    "video": "GH168416_5496_5650",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 3,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 68,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 79,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 206,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 221,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 223,
+    "video": "GH178416_6298_6521",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 1,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 35,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 55,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 80,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 342,
+        "label": "miss"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 474,
+    "video": "GH198416_7776_8250",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 3,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 118,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 125,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 132,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 147,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 150,
+    "video": "GH178416_9996_10146",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 5,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 6,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 314,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 481,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 489,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 494,
+    "video": "GH178416_7074_7568",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 8,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 25,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 96,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 163,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 282,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 293,
+    "video": "GH168416_11915_12208",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 4,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 305,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 313,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 327,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 355,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 361,
+    "video": "GH079681_2310_2671",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 69,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 165,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 186,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 203,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 258,
+        "label": "miss"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 309,
+    "video": "GH159681_1448_1757",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 100,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 306,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 307,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 359,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 370,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 372,
+    "video": "GH158416_118_490",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 0,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 68,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 97,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 550,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 550,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 598,
+    "video": "GH178416_13643_14241",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 29,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 43,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 101,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 119,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 176,
+        "label": "miss"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 181,
+    "video": "GH109681_1136_1317",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 46,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 99,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 108,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 141,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 159,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 165,
+    "video": "GH169681_7108_7273",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 100,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 175,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 175,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 189,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 244,
+        "label": "block"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 253,
+    "video": "GH088416_6_259",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 4,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 20,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 35,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 172,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 184,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 215,
+    "video": "GH178416_15626_15841",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 42,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 177,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 179,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 192,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 197,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 203,
+    "video": "GH089681_12173_12376",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 3,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 29,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 45,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 48,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 73,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 80,
+    "video": "GH119681_954_1034",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 14,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 37,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 40,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 76,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 84,
+        "label": "miss"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 89,
+    "video": "GH069681_6326_6415",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 23,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 44,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 44,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 59,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 65,
+        "label": "miss"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 74,
+    "video": "GH189681_914_988",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 19,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 28,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 36,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 48,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 84,
+        "label": "block"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 92,
+    "video": "GH158416_3085_3177",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 147,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 156,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 185,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 203,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 206,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 372,
+    "video": "GH079681_8984_9356",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 95,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 99,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 292,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 293,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 440,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 510,
+    "video": "GH139681_0_510",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 0,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 20,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 32,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 161,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 262,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 283,
+    "video": "GH168416_8638_8921",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 19,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 92,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 151,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 151,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 176,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 184,
+    "video": "GH138416_6245_6429",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 8,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 114,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 131,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 251,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 432,
+        "label": "block"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 438,
+    "video": "GH168416_4805_5243",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 20,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 83,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 1386,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 1454,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 1455,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 1461,
+    "video": "GH118416_8656_10117",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 9,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 88,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 120,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 195,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 209,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 262,
+    "video": "GH089681_3561_3823",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 3,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 100,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 118,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 137,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 214,
+        "label": "block"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 306,
+    "video": "GH199681_7442_7748",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 49,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 51,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 351,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 378,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 394,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 402,
+    "video": "GH148416_9548_9950",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 8,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 48,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 239,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 280,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 296,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 297,
+    "video": "GH148416_10570_10867",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 24,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 101,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 199,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 210,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 394,
+        "label": "block"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 400,
+    "video": "GH118416_0_400",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 0,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 7,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 108,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 123,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 195,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 197,
+    "video": "GH089681_12997_13194",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 27,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 30,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 37,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 41,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 1013,
+        "label": "block"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 1078,
+    "video": "GH158416_5023_6101",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 14,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 30,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 47,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 127,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 195,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 282,
+    "video": "GH089681_6706_6988",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 27,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 61,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 93,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 97,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 175,
+        "label": "miss"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 228,
+    "video": "GH098416_1908_2136",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 24,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 94,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 118,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 135,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 249,
+        "label": "block"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 329,
+    "video": "GH128416_6073_6402",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 7,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 108,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 116,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 184,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 295,
+        "label": "miss"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 319,
+    "video": "GH189681_595_914",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 81,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 104,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 138,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 237,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 252,
+        "label": "block"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 308,
+    "video": "GH199681_4237_4545",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 2,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 16,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 53,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 123,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 156,
+        "label": "block"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 161,
+    "video": "GH069681_2660_2821",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 5,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 13,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 118,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 151,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 220,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 273,
+    "video": "GH129681_3488_3761",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 8,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 301,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 364,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 367,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 380,
+        "label": "miss"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 388,
+    "video": "GH168416_1457_1845",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 6,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 87,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 211,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 254,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 301,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 328,
+    "video": "GH199681_10802_11130",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 28,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 32,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 38,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 42,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 736,
+        "label": "block"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 781,
+    "video": "GH149681_926_1707",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 2,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 86,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 90,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 443,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 448,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 455,
+    "video": "GH169681_6150_6605",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 6,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 70,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 77,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 129,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 206,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 208,
+    "video": "GH129681_5982_6190",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 5,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 22,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 70,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 82,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 91,
+        "label": "miss"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 236,
+    "video": "GH119681_2307_2543",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 0,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 164,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 298,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 346,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 664,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 669,
+    "video": "GH149681_5530_6199",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 49,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 62,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 77,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 93,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 202,
+        "label": "block"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 237,
+    "video": "GH189681_3733_3970",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 38,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 65,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 144,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 205,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 212,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 214,
+    "video": "GH078416_2600_2814",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 9,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 21,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 41,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 45,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 87,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 89,
+    "video": "GH178416_471_560",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 8,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 27,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 1022,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 1024,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 1035,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 1056,
+    "video": "GH069681_3922_4978",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 51,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 87,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 103,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 120,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 126,
+        "label": "miss"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 201,
+    "video": "GH108416_6357_6558",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 136,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 138,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 148,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 170,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 189,
+        "label": "miss"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 206,
+    "video": "GH099681_1023_1229",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 5,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 25,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 28,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 112,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 114,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 119,
+    "video": "GH178416_6179_6298",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 80,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 82,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 125,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 139,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 164,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 234,
+    "video": "GH128416_0_234",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 32,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 155,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 162,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 184,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 259,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 355,
+    "video": "GH088416_595_950",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 3,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 20,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 182,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 231,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 233,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 239,
+    "video": "GH129681_5590_5829",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 26,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 50,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 86,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 93,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 101,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 107,
+    "video": "GH169681_1617_1724",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 1,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 134,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 149,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 202,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 220,
+        "label": "miss"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 253,
+    "video": "GH159681_10236_10489",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 0,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 340,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 371,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 392,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 636,
+        "label": "block"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 644,
+    "video": "GH189681_1136_1780",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 0,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 9,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 16,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 200,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 374,
+        "label": "block"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 380,
+    "video": "GH149681_4579_4959",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 8,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 22,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 29,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 35,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 69,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 71,
+    "video": "GH099681_1970_2041",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 9,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 24,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 26,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 38,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 139,
+        "label": "miss"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 145,
+    "video": "GH089681_9797_9942",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 11,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 70,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 89,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 219,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 446,
+        "label": "miss"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 502,
+    "video": "GH179681_6320_6822",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 10,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 15,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 78,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 89,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 116,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 118,
+    "video": "GH088416_9524_9642",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 22,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 148,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 278,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 294,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 417,
+        "label": "block"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 433,
+    "video": "GH199681_9877_10310",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 40,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 41,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 61,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 126,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 173,
+        "label": "miss"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 184,
+    "video": "GH118416_5943_6127",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 7,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 20,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 37,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 208,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 313,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 315,
+    "video": "GH069681_913_1228",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 7,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 150,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 169,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 278,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 303,
+        "label": "miss"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 324,
+    "video": "GH158416_7694_8018",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 1,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 16,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 17,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 105,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 111,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 164,
+    "video": "GH158416_490_654",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 30,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 161,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 385,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 389,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 455,
+        "label": "miss"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 487,
+    "video": "GH098416_685_1172",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 0,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 82,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 191,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 236,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 266,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 302,
+    "video": "GH159681_9496_9798",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 47,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 53,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 65,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 164,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 167,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 212,
+    "video": "GH178416_14241_14453",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 8,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 120,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 121,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 143,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 163,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 167,
+    "video": "GH089681_4759_4926",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 1,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 157,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 166,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 225,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 233,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 245,
+    "video": "GH178416_10146_10391",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 25,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 31,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 102,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 113,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 117,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 155,
+    "video": "GH148416_2115_2270",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 10,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 12,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 63,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 80,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 82,
+        "label": "miss"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 109,
+    "video": "GH169681_1508_1617",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 5,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 167,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 181,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 251,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 298,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 310,
+    "video": "GH089681_5328_5638",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 4,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 21,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 87,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 343,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 355,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 475,
+    "video": "GH118416_3724_4199",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 57,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 107,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 110,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 235,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 245,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 278,
+    "video": "GH118416_2269_2547",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 0,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 16,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 69,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 70,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 84,
+        "label": "miss"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 88,
+    "video": "GH099681_5469_5557",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 44,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 48,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 230,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 230,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 434,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 509,
+    "video": "GH178416_14453_14962",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 7,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 59,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 70,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 84,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 181,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 183,
+    "video": "GH149681_4396_4579",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 37,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 45,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 90,
+        "label": "block"
+      },
+      {
+        "comment": "",
+        "frame": 95,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 98,
+        "label": "miss"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 107,
+    "video": "GH089681_124_231",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 106,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 111,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 166,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 174,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 185,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 291,
+    "video": "GH178416_3156_3447",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 1,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 51,
+        "label": "miss"
+      },
+      {
+        "comment": "",
+        "frame": 114,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 430,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 442,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 578,
+    "video": "GH178416_560_1138",
+    "width": 1920
+  },
+  {
+    "events": [
+      {
+        "comment": "",
+        "frame": 0,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 283,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 290,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 478,
+        "label": "hit"
+      },
+      {
+        "comment": "",
+        "frame": 645,
+        "label": "hit"
+      }
+    ],
+    "fps": 50.00008980863313,
+    "height": 1080,
+    "num_events": 5,
+    "num_frames": 786,
+    "video": "GH148416_5237_6023",
+    "width": 1920
+  }
+]
