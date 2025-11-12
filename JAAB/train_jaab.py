@@ -103,7 +103,7 @@ def main(args):
         args.crop_dim = None
 
     # initialize wandb
-    wandb.login(key='107e4ee2768eb660807bdd94b9137b43bc0a9fe0') # our own key must be placed here
+    wandb.login(key='####') # our own key must be placed here
     
     # wanb.login(
     # anonymous: Optional[Literal['must', 'allow', 'never']] = None,
